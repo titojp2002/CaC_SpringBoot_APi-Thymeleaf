@@ -11,7 +11,7 @@
 <br>
 
 <p>Las tablas responden a la siguiente estructura</p>
-<img src="mapeoDatabase.jpg" alt="">
+<img src="https://raw.githubusercontent.com/titojp2002/CaC_SpringBoot_APi-Thymeleaf/master/mapeoDatabase.jpg" alt="">
 
 <br>
 

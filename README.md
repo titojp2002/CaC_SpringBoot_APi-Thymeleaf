@@ -11,7 +11,7 @@
 <br>
 
 <p>Las tablas responden a la siguiente estructura</p>
-<img src="mapeoDatabase.jpr" alt="" srcset="">
+<img src="mapeoDatabase.jpg" alt="">
 
 <br>
 
